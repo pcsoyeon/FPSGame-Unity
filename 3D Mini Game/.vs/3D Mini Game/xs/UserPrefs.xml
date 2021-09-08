@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{899600A7-DFD2-0A83-CD0D-CB9F5B6421AD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreMng.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BulletCtrl.cs" Line="14" Column="2" />
+      <File FileName="Assets/Scripts/Shooter.cs" Line="10" Column="34" />
+      <File FileName="Assets/Scripts/ScoreMng.cs" Line="14" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3D Mini Game" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f6138817-b010-4e4c-8266-cf76dc1885d3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
