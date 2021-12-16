@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e10fbc50be55a4e4e8c8586c5c6d9a35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {instanceID: 0}
+  - catridge: {instanceID: 0}
+  - firePos: {instanceID: 0}
+  - fireSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
